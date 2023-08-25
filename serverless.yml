@@ -1,4 +1,4 @@
-service: pglim360-serverless-nodejs-api
+service: pglim360-serverless-api
 frameworkVersion: '3'
 
 provider: 
