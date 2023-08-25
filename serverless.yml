@@ -1,4 +1,4 @@
-service: wengsiong-serverless-nodejs-api
+service: pglim360-serverless-nodejs-api
 frameworkVersion: '3'
 
 provider: 
