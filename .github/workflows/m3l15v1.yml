@@ -1,5 +1,5 @@
 name: M3L15v1 CloudWatch
-run-name: ${{ github.actor }} is running CI/CD for Serverless Nodejs Application with CloudWatch
+run-name: ${{ github.actor }} is running CICD for Serverless Application with CloudWatch
 
 on:
   push:
